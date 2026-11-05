@@ -1,4 +1,4 @@
-iris-sodium-compat
+
 skinlayers3d
 smartbrainlib
 waystones
@@ -40,7 +40,6 @@ gjeb
 guideme
 immediatelyfast
 immersiveengineering
-iris
 irons_lib
 irons_spellbooks
 iss-ui
