@@ -6,6 +6,9 @@ AmbientSounds
 amendments
 architectury
 athena
+moonlight
+resourcefullib
+exposure
 balm
 Bookshelf
 chipped
