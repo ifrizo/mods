@@ -1,3 +1,4 @@
+iris-sodium-compat
 skinlayers3d
 smartbrainlib
 waystones
