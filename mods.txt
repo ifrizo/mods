@@ -1,4 +1,10 @@
 entity_model_features
+Searchables
+Patchouli
+Farmer's Delight
+ResourcefulLib
+Moonlight
+Iceberg
 entity_sound_features
 entity_texture_features
 AdvancementPlaques
