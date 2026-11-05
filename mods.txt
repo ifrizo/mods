@@ -1,117 +1,117 @@
-Entity Model Features
-Entity Sound Features
-Entity Texture Features
-Advancement Plaques
+entity_model_features
+entity_sound_features
+entity_texture_features
+AdvancementPlaques
 AmbientSounds
-Amendments
-Architectury API
-Athena
-Balm
+amendments
+architectury
+athena
+balm
 Bookshelf
-Chipped
-Cloth Config API
+chipped
+cloth-config
 Controlling
-CorgiLib
-Cosmetic Armor Reworked
-Cosmetic Armours
+Corgilib
+cosmeticarmorreworked
+CosmeticArmours
 CraterLib
 CreativeCore
-Curios API
-Customizable Elytra
-Dark Paintings
-Data Anchor
+curios
+customizableelytra
+DarkPaintings
+Data_Anchor
 e4mc
-Embeddium
-Rubidium Extra
-Endless Biomes
-Enhanced Celestials
-Entity Culling
-Even More Instruments
+embeddium
+rubidium-extra
+EndlessBiomes
+Enhanced-Celestials
+entityculling
+evenmoreinstruments
 exposure
-Exposure Catalog
-Falling Leaves
-FancyMenu
-Fantasy Furniture
-Farmer's Bliss
-Farmer's Delight
-FerriteCore
-Festive Delight
-Framework
-Genshin Instrument
-Golden Hopper
-Guide API VP
-Handcrafted
-HWID Anti Alts
+exposure_catalog
+fallingleaves
+fancymenu
+fantasyfurniture
+FarmersBliss
+FarmersDelight
+ferritecore
+festive_delight
+framework
+genshinstrument
+goldenhopper
+Guide-API-VP
+handcrafted
+hwid_anti_alts
 Iceberg
 ImmediatelyFast
-Item Obliterator
+Item-Obliterator
 Jade
-Just Enough Items (JEI)
-Just Zoom
+jei
+justzoom
 Kiwi
-Konkrete
-Legendary Tooltips
-Lootr
-Macaw's Bridges
-Macaw's Holidays
-Melody
-Memory Leak Fix
-Moog's End Structures
-Mezz Config
-Moog's Nether Structures
-Mob Battle Mod
-ModernFix
-Modlist Snooper
-Moog's Structure Lib
-Moonlight
-More Slabs Stairs & Walls
-Mouse Tweaks
-Moog's Voyager Structures
-Necronomicon API
-Night Lights
-No Chat Reports
-Oculus
+konkrete
+LegendaryTooltips
+lootr
+mcw-bridges
+mcw-holidays
+melody
+memoryleakfix
+MoogsEndStructures
+mezz_config
+MoogsNetherStructures
+mobbattle
+modernfix
+modlist_snooper
+MoogsStructureLib
+moonlight
+moreslabsstairsandwalls
+MouseTweaks
+MoogsVoyagerStructures
+Necronomicon
+nightlights
+NoChatReports
+oculus
 Patchouli
 Pehkui
-PPLib
-Polymorph
-Portfolio
+pplib
+polymorph
+portfolio
 Prism
 Quark
-Radium
-ResourcefulLib
+radium
+resourcefullib
 Searchables
-Simple RPC
-Simple Shops
-Simple Shops Fix
-Simple Voice Chat
-Small Ships
-Snow Under Trees
-Snow Real Magic
-Sodium Dynamic Lights
-Sooty Chimneys
+SimpleRPC
+simpleshops
+simpleshopsfix
+voicechat
+smallships
+snowundertrees
+SnowRealMagic
+sodiumdynamiclights
+sootychimneys
 Structory
-Supplementaries
+supplementaries
 TerraBlender
-Tidal Towns
-Vampire's Delight
-Vampiric Ageing
+tidal-towns
+VampiresDelight
+vampiricageing
 Vampirism
-Vampirism Integrations
-Vampirism.co Peculiarities
-Waystones
+vampirism_integrations
+vampirismco_peculiarities
+waystones
 Werewolves
-Xaero's Minimap
-Xaero's World Map
-Xray Snitch
-YUNG's API
-YUNG's Better Desert Temples
-YUNG's Better Dungeons
-YUNG's Better End Island
-YUNG's Better Jungle Temples
-YUNG's Better Mineshafts
-YUNG's Better Strongholds
-YUNG's Better Witch Huts
-YUNG's Bridges
-YUNG's Extras
+xaerominimap
+xaeroworldmap
+xray_snitch
+YungsApi
+YungsBetterDesertTemples
+YungsBetterDungeons
+YungsBetterEndIsland
+YungsBetterJungleTemples
+YungsBetterMineshafts
+YungsBetterStrongholds
+YungsBetterWitchHuts
+YungsBridges
+YungsExtras
 Zeta
