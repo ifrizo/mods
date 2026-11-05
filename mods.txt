@@ -1,4 +1,6 @@
 skinlayers3d
+smartbrainlib
+waystones
 ambientsounds
 apotheosis
 apothicattributes
