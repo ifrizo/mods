@@ -1,3 +1,78 @@
 Sodium
 Lithium
 Iris
+Simple Voice Chat
+3D Skin Layers
+Xaero's Minimap
+Xaero's World Map
+Xaero's Minimap & World Map - Way
+Wallnotenough
+Valhelsia_core
+Target-dummy
+Sophisticatedstorage
+Sophisticatedcore
+Sophisticatedbackpacks
+Sodium-extra
+SmartBrainLib
+AmbientSounds
+Skinlayers3d
+PlayerAnimationLib
+Placebo
+PatPat
+Patchouli
+Particle_core
+Occultism
+NaturesCompass
+Moreculling
+MoreBuckets
+Moonlight
+Modonomicon
+Modernfix
+Mezz_config
+Mekanism:More Machine
+MekanismTools
+Mekanism Generators
+Mekanism
+Lootr
+Kotlinforforge
+Just Enough Mekanism Multiblocks
+Just Enough Items (JEI)
+IronsSpellBooks UI
+Irons_spellbooks
+Irons_lib
+ImmersiveEngineering
+ImmediatelyFast
+Gjeb
+Geckolib
+Fzzy_config
+Forgified-fabric-api
+ForgeConfigAPIPort
+Forbidden_arcanus
+Fast-ip-ping
+FarmersDelight
+ExplorersCompass
+Eternalstarlight
+Epic-fight
+Epicfight_poise
+Easy-villagers
+Curios
+Cucumber
+Createaddition
+Create
+Collective
+Cloth-config
+Chunky
+CerbonsAPI
+Caelus
+Bookshelf
+Bosses of Mass Destruction Forge
+Block_factorys_bosses
+Balm
+Artifacts
+Ars_nouveau
+Architectury
+Arcaneessenceblock
+ApothicSpawners
+ApothicEnchanting
+ApothicAttributes
+Apotheosis
