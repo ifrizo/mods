@@ -5,6 +5,8 @@ AdvancementPlaques
 AmbientSounds
 amendments
 architectury
+recipesplitter
+packetfixer
 athena
 moonlight
 resourcefullib
