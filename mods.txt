@@ -27,7 +27,7 @@ Endless Biomes
 Enhanced Celestials
 Entity Culling
 Even More Instruments
-Exposure
+exposure
 Exposure Catalog
 Falling Leaves
 FancyMenu
@@ -63,7 +63,7 @@ Mob Battle Mod
 ModernFix
 Modlist Snooper
 Moog's Structure Lib
-Moonlight Lib
+Moonlight
 More Slabs Stairs & Walls
 Mouse Tweaks
 Moog's Voyager Structures
@@ -79,7 +79,7 @@ Portfolio
 Prism
 Quark
 Radium
-Resourceful Lib
+ResourcefulLib
 Searchables
 Simple RPC
 Simple Shops
