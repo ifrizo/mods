@@ -1,4 +1,3 @@
-packetfixer
 ferritecore
 skinlayers3d
 smartbrainlib
@@ -10,7 +9,6 @@ apothicenchanting
 apothicspawners
 architectury
 ars_nouveau
-artifacts
 balm
 bookshelf
 bomd
