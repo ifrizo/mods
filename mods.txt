@@ -1,16 +1,10 @@
-3d skin layers
-FerriteCore
 skinlayers3d
 ambientsounds
 apotheosis
-apothic attributes
 apothicattributes
-apothic enchanting
 apothicenchanting
-apothic spawners
 apothicspawners
 architectury
-ars nouveau
 ars_nouveau
 artifacts
 balm
@@ -20,7 +14,6 @@ block_factorys_bosses
 caelus
 cerbonsapi
 chunky
-cloth config
 cloth-config
 collective
 create
