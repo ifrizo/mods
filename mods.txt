@@ -1,6 +1,8 @@
 entity_model_features
 Searchables
 curios
+Curios API
+Farmer's Delight
 farmersdelight
 Patchouli
 Farmer's Delight
