@@ -26,8 +26,6 @@ creativecore
 cucumber
 curios
 easy-villagers
-epic-fight
-epicfight_poise
 eternalstarlight
 explorerscompass
 farmersdelight
