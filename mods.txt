@@ -1,52 +1,117 @@
-entity_model_features
-Searchables
-curios
-Curios API
-Farmer's Delight
-farmersdelight
-Patchouli
-Farmer's Delight
-ResourcefulLib
-Moonlight
-Iceberg
-entity_sound_features
-entity_texture_features
-AdvancementPlaques
+Entity Model Features
+Entity Sound Features
+Entity Texture Features
+Advancement Plaques
 AmbientSounds
-amendments
-architectury
-athena
-balm
+Amendments
+Architectury API
+Athena
+Balm
 Bookshelf
-chipped
-cloth-config
+Chipped
+Cloth Config API
 Controlling
-Corgilib
-CosmeticArmorReworked
-CosmeticArmours
+CorgiLib
+Cosmetic Armor Reworked
+Cosmetic Armours
 CraterLib
 CreativeCore
+Curios API
 Customizable Elytra
 Dark Paintings
 Data Anchor
-vampiresdelight
-vampiricageing
-vampirism
-vampirism_integrations
-vampirismco_peculiarities
-waystones
-werewolves
-xaerominimap
-xaeroworldmap
-xray_snitch
-yungsapi
-yungsbetterdeserttemples
-yungsbetterdungeons
-yungsbetterendisland
-yungsbetterjungletemples
-yungsbettermineshafts
-yungsbetterstrongholds
-yungsbetterwitchhuts
-yungsbridges
-yungsextras
-zeta
+e4mc
+Embeddium
+Rubidium Extra
+Endless Biomes
+Enhanced Celestials
+Entity Culling
+Even More Instruments
+Exposure
+Exposure Catalog
+Falling Leaves
+FancyMenu
+Fantasy Furniture
+Farmer's Bliss
+Farmer's Delight
+FerriteCore
+Festive Delight
+Framework
+Genshin Instrument
+Golden Hopper
+Guide API VP
+Handcrafted
+HWID Anti Alts
+Iceberg
+ImmediatelyFast
+Item Obliterator
+Jade
+Just Enough Items (JEI)
+Just Zoom
+Kiwi
+Konkrete
+Legendary Tooltips
+Lootr
+Macaw's Bridges
+Macaw's Holidays
+Melody
+Memory Leak Fix
+Moog's End Structures
+Mezz Config
+Moog's Nether Structures
+Mob Battle Mod
+ModernFix
+Modlist Snooper
+Moog's Structure Lib
+Moonlight Lib
+More Slabs Stairs & Walls
+Mouse Tweaks
+Moog's Voyager Structures
+Necronomicon API
+Night Lights
+No Chat Reports
+Oculus
+Patchouli
+Pehkui
+PPLib
+Polymorph
+Portfolio
+Prism
+Quark
+Radium
+Resourceful Lib
+Searchables
+Simple RPC
+Simple Shops
+Simple Shops Fix
+Simple Voice Chat
+Small Ships
+Snow Under Trees
+Snow Real Magic
+Sodium Dynamic Lights
+Sooty Chimneys
+Structory
+Supplementaries
+TerraBlender
+Tidal Towns
+Vampire's Delight
+Vampiric Ageing
+Vampirism
+Vampirism Integrations
+Vampirism.co Peculiarities
+Waystones
+Werewolves
+Xaero's Minimap
+Xaero's World Map
+Xray Snitch
+YUNG's API
+YUNG's Better Desert Temples
+YUNG's Better Dungeons
+YUNG's Better End Island
+YUNG's Better Jungle Temples
+YUNG's Better Mineshafts
+YUNG's Better Strongholds
+YUNG's Better Witch Huts
+YUNG's Bridges
+YUNG's Extras
+Zeta
