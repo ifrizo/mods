@@ -4,6 +4,7 @@ appleskin
 architectury
 balm
 Bovines-And-Buttercups
+voicechat
 buildinggadgets2
 canary
 capes
